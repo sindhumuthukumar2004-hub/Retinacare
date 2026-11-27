@@ -1,0 +1,9 @@
+streamlit==1.66.1
+torch
+torchvision
+timm==1.0.31
+numpy
+pandas==2.3.3
+plotly==6.3.0
+opencv-python-headless
+Pillow
